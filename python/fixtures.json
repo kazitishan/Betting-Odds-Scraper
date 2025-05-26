@@ -1,0 +1,115 @@
+{
+  "Champions League": [
+    {
+      "datetime": "31.05. 21:00",
+      "home_team": "PSG",
+      "away_team": "Inter",
+      "odds": {
+        "home_win": 2.27,
+        "draw": 3.31,
+        "away_win": 3.24
+      }
+    }
+  ],
+  "Premier League": [],
+  "La Liga": [],
+  "Ligue 1": [],
+  "Bundesliga": [],
+  "Serie A": [],
+  "Eredivisie": [],
+  "Liga Portugal": [],
+  "Super Lig": [
+    {
+      "datetime": "Today 19:00",
+      "home_team": "Hatayspor",
+      "away_team": "Fenerbahce",
+      "odds": {
+        "home_win": 9.08,
+        "draw": 6.81,
+        "away_win": 1.24
+      }
+    },
+    {
+      "datetime": "30.05. 19:00",
+      "home_team": "Antalyaspor",
+      "away_team": "Trabzonspor",
+      "odds": {
+        "home_win": 2.97,
+        "draw": 3.52,
+        "away_win": 2.21
+      }
+    },
+    {
+      "datetime": "30.05. 19:00",
+      "home_team": "Galatasaray",
+      "away_team": "Basaksehir",
+      "odds": {
+        "home_win": 1.52,
+        "draw": 4.42,
+        "away_win": 5.06
+      }
+    },
+    {
+      "datetime": "30.05. 19:00",
+      "home_team": "Kasimpasa",
+      "away_team": "Goztepe",
+      "odds": {
+        "home_win": 1.7,
+        "draw": 4.2,
+        "away_win": 4.07
+      }
+    },
+    {
+      "datetime": "31.05. 15:00",
+      "home_team": "Fenerbahce",
+      "away_team": "Konyaspor",
+      "odds": {}
+    },
+    {
+      "datetime": "31.05. 15:00",
+      "home_team": "Rizespor",
+      "away_team": "Hatayspor",
+      "odds": {}
+    },
+    {
+      "datetime": "31.05. 18:00",
+      "home_team": "Adana Demirspor",
+      "away_team": "Gaziantep",
+      "odds": {
+        "home_win": 6.24,
+        "draw": 4.91,
+        "away_win": 1.4
+      }
+    },
+    {
+      "datetime": "31.05. 18:00",
+      "home_team": "Alanyaspor",
+      "away_team": "Sivasspor",
+      "odds": {
+        "home_win": 1.73,
+        "draw": 3.88,
+        "away_win": 4.26
+      }
+    },
+    {
+      "datetime": "01.06. 18:00",
+      "home_team": "Bodrumspor",
+      "away_team": "Besiktas",
+      "odds": {
+        "home_win": 4.08,
+        "draw": 3.78,
+        "away_win": 1.77
+      }
+    },
+    {
+      "datetime": "01.06. 18:00",
+      "home_team": "Samsunspor",
+      "away_team": "Kayserispor",
+      "odds": {
+        "home_win": 1.65,
+        "draw": 3.94,
+        "away_win": 4.7
+      }
+    }
+  ]
+}
