@@ -1,0 +1,3567 @@
+{
+  "Champions League": [
+    {
+      "datetime": "Today 21:00",
+      "home_team": "PSG",
+      "away_team": "Inter",
+      "odds": {
+        "home_win": 2.17,
+        "draw": 3.42,
+        "away_win": 3.5
+      }
+    }
+  ],
+  "Premier League": [],
+  "La Liga": [],
+  "Ligue 1": [],
+  "Bundesliga": [],
+  "Serie A": [],
+  "Eredivisie": [],
+  "Liga Portugal": [],
+  "Super Lig": [
+    {
+      "datetime": "Today 15:00",
+      "home_team": "Fenerbahce",
+      "away_team": "Konyaspor",
+      "odds": {
+        "home_win": 1.35,
+        "draw": 5.4,
+        "away_win": 6.99
+      }
+    },
+    {
+      "datetime": "Today 15:00",
+      "home_team": "Rizespor",
+      "away_team": "Hatayspor",
+      "odds": {
+        "home_win": 1.41,
+        "draw": 5.24,
+        "away_win": 5.68
+      }
+    },
+    {
+      "datetime": "Today 18:00",
+      "home_team": "Adana Demirspor",
+      "away_team": "Gaziantep",
+      "odds": {
+        "home_win": 5.83,
+        "draw": 5.26,
+        "away_win": 1.4
+      }
+    },
+    {
+      "datetime": "Today 18:00",
+      "home_team": "Alanyaspor",
+      "away_team": "Sivasspor",
+      "odds": {
+        "home_win": 1.86,
+        "draw": 3.79,
+        "away_win": 3.59
+      }
+    },
+    {
+      "datetime": "Tomorrow 18:00",
+      "home_team": "Bodrumspor",
+      "away_team": "Besiktas",
+      "odds": {
+        "home_win": 3.98,
+        "draw": 3.74,
+        "away_win": 1.78
+      }
+    },
+    {
+      "datetime": "Tomorrow 18:00",
+      "home_team": "Samsunspor",
+      "away_team": "Kayserispor",
+      "odds": {
+        "home_win": 1.69,
+        "draw": 3.54,
+        "away_win": 4.77
+      }
+    }
+  ],
+  "MLS": [
+    {
+      "datetime": "Today 20:30",
+      "home_team": "St. Louis City",
+      "away_team": "San Jose Earthquakes",
+      "odds": {
+        "home_win": 2.09,
+        "draw": 3.93,
+        "away_win": 3.0
+      }
+    },
+    {
+      "datetime": "Today 22:30",
+      "home_team": "Nashville SC",
+      "away_team": "New York City",
+      "odds": {
+        "home_win": 1.72,
+        "draw": 3.8,
+        "away_win": 4.43
+      }
+    },
+    {
+      "datetime": "Tomorrow 01:30",
+      "home_team": "CF Montreal",
+      "away_team": "New England Revolution",
+      "odds": {
+        "home_win": 2.32,
+        "draw": 3.44,
+        "away_win": 2.89
+      }
+    },
+    {
+      "datetime": "Tomorrow 01:30",
+      "home_team": "FC Cincinnati",
+      "away_team": "DC United",
+      "odds": {
+        "home_win": 1.46,
+        "draw": 4.57,
+        "away_win": 6.06
+      }
+    },
+    {
+      "datetime": "Tomorrow 01:30",
+      "home_team": "Inter Miami",
+      "away_team": "Columbus Crew",
+      "odds": {
+        "home_win": 2.13,
+        "draw": 3.96,
+        "away_win": 2.89
+      }
+    },
+    {
+      "datetime": "Tomorrow 01:30",
+      "home_team": "New York Red Bulls",
+      "away_team": "Atlanta Utd",
+      "odds": {
+        "home_win": 1.89,
+        "draw": 3.78,
+        "away_win": 3.67
+      }
+    },
+    {
+      "datetime": "Tomorrow 01:30",
+      "home_team": "Orlando City",
+      "away_team": "Chicago Fire",
+      "odds": {
+        "home_win": 1.66,
+        "draw": 4.11,
+        "away_win": 4.53
+      }
+    },
+    {
+      "datetime": "Tomorrow 01:30",
+      "home_team": "Toronto FC",
+      "away_team": "Charlotte",
+      "odds": {
+        "home_win": 2.87,
+        "draw": 3.54,
+        "away_win": 2.29
+      }
+    },
+    {
+      "datetime": "Tomorrow 02:30",
+      "home_team": "FC Dallas",
+      "away_team": "Philadelphia Union",
+      "odds": {
+        "home_win": 2.49,
+        "draw": 3.59,
+        "away_win": 2.57
+      }
+    },
+    {
+      "datetime": "Tomorrow 02:30",
+      "home_team": "Houston Dynamo",
+      "away_team": "Sporting Kansas City",
+      "odds": {
+        "home_win": 1.72,
+        "draw": 3.84,
+        "away_win": 4.45
+      }
+    },
+    {
+      "datetime": "Tomorrow 04:30",
+      "home_team": "Los Angeles Galaxy",
+      "away_team": "Real Salt Lake",
+      "odds": {
+        "home_win": 2.1,
+        "draw": 3.65,
+        "away_win": 3.15
+      }
+    },
+    {
+      "datetime": "Tomorrow 04:30",
+      "home_team": "San Diego FC",
+      "away_team": "Austin FC",
+      "odds": {
+        "home_win": 1.67,
+        "draw": 3.91,
+        "away_win": 4.74
+      }
+    },
+    {
+      "datetime": "02.06. 00:00",
+      "home_team": "Seattle Sounders",
+      "away_team": "Minnesota United",
+      "odds": {
+        "home_win": 1.94,
+        "draw": 3.39,
+        "away_win": 3.86
+      }
+    },
+    {
+      "datetime": "08.06. 01:30",
+      "home_team": "DC United",
+      "away_team": "Chicago Fire",
+      "odds": {}
+    },
+    {
+      "datetime": "08.06. 03:30",
+      "home_team": "Colorado Rapids",
+      "away_team": "Austin FC",
+      "odds": {}
+    },
+    {
+      "datetime": "09.06. 01:00",
+      "home_team": "Portland Timbers",
+      "away_team": "St. Louis City",
+      "odds": {}
+    },
+    {
+      "datetime": "09.06. 03:00",
+      "home_team": "Los Angeles FC",
+      "away_team": "Sporting Kansas City",
+      "odds": {}
+    },
+    {
+      "datetime": "09.06. 03:00",
+      "home_team": "Vancouver Whitecaps",
+      "away_team": "Seattle Sounders",
+      "odds": {}
+    },
+    {
+      "datetime": "13.06. 01:30",
+      "home_team": "New York City",
+      "away_team": "Atlanta Utd",
+      "odds": {}
+    },
+    {
+      "datetime": "14.06. 04:30",
+      "home_team": "Los Angeles FC",
+      "away_team": "Toronto FC",
+      "odds": {}
+    },
+    {
+      "datetime": "14.06. 04:30",
+      "home_team": "Portland Timbers",
+      "away_team": "San Jose Earthquakes",
+      "odds": {}
+    },
+    {
+      "datetime": "14.06. 22:30",
+      "home_team": "St. Louis City",
+      "away_team": "Los Angeles Galaxy",
+      "odds": {}
+    },
+    {
+      "datetime": "15.06. 01:30",
+      "home_team": "Columbus Crew",
+      "away_team": "Vancouver Whitecaps",
+      "odds": {}
+    },
+    {
+      "datetime": "15.06. 01:30",
+      "home_team": "New England Revolution",
+      "away_team": "FC Cincinnati",
+      "odds": {}
+    },
+    {
+      "datetime": "15.06. 01:30",
+      "home_team": "Philadelphia Union",
+      "away_team": "Charlotte",
+      "odds": {}
+    },
+    {
+      "datetime": "15.06. 02:30",
+      "home_team": "Austin FC",
+      "away_team": "New York Red Bulls",
+      "odds": {}
+    },
+    {
+      "datetime": "15.06. 02:30",
+      "home_team": "Chicago Fire",
+      "away_team": "Nashville SC",
+      "odds": {}
+    },
+    {
+      "datetime": "15.06. 02:30",
+      "home_team": "Houston Dynamo",
+      "away_team": "CF Montreal",
+      "odds": {}
+    },
+    {
+      "datetime": "15.06. 02:30",
+      "home_team": "Minnesota United",
+      "away_team": "San Diego FC",
+      "odds": {}
+    },
+    {
+      "datetime": "15.06. 02:30",
+      "home_team": "Sporting Kansas City",
+      "away_team": "FC Dallas",
+      "odds": {}
+    },
+    {
+      "datetime": "15.06. 03:30",
+      "home_team": "Colorado Rapids",
+      "away_team": "Orlando City",
+      "odds": {}
+    },
+    {
+      "datetime": "15.06. 03:30",
+      "home_team": "Real Salt Lake",
+      "away_team": "DC United",
+      "odds": {}
+    },
+    {
+      "datetime": "26.06. 01:30",
+      "home_team": "CF Montreal",
+      "away_team": "FC Cincinnati",
+      "odds": {}
+    },
+    {
+      "datetime": "26.06. 01:30",
+      "home_team": "Columbus Crew",
+      "away_team": "Atlanta Utd",
+      "odds": {}
+    },
+    {
+      "datetime": "26.06. 01:30",
+      "home_team": "New England Revolution",
+      "away_team": "Nashville SC",
+      "odds": {}
+    },
+    {
+      "datetime": "26.06. 01:30",
+      "home_team": "Toronto FC",
+      "away_team": "New York Red Bulls",
+      "odds": {}
+    },
+    {
+      "datetime": "26.06. 02:30",
+      "home_team": "Chicago Fire",
+      "away_team": "Philadelphia Union",
+      "odds": {}
+    },
+    {
+      "datetime": "26.06. 02:30",
+      "home_team": "FC Dallas",
+      "away_team": "San Jose Earthquakes",
+      "odds": {}
+    },
+    {
+      "datetime": "26.06. 02:30",
+      "home_team": "Minnesota United",
+      "away_team": "Houston Dynamo",
+      "odds": {}
+    },
+    {
+      "datetime": "26.06. 02:30",
+      "home_team": "Sporting Kansas City",
+      "away_team": "Charlotte",
+      "odds": {}
+    },
+    {
+      "datetime": "26.06. 02:30",
+      "home_team": "St. Louis City",
+      "away_team": "Orlando City",
+      "odds": {}
+    },
+    {
+      "datetime": "26.06. 03:30",
+      "home_team": "Colorado Rapids",
+      "away_team": "Los Angeles Galaxy",
+      "odds": {}
+    },
+    {
+      "datetime": "26.06. 03:30",
+      "home_team": "Real Salt Lake",
+      "away_team": "Los Angeles FC",
+      "odds": {}
+    },
+    {
+      "datetime": "26.06. 04:30",
+      "home_team": "Vancouver Whitecaps",
+      "away_team": "San Diego FC",
+      "odds": {}
+    },
+    {
+      "datetime": "29.06. 01:30",
+      "home_team": "CF Montreal",
+      "away_team": "New York City",
+      "odds": {}
+    },
+    {
+      "datetime": "29.06. 01:30",
+      "home_team": "DC United",
+      "away_team": "Nashville SC",
+      "odds": {}
+    },
+    {
+      "datetime": "29.06. 01:30",
+      "home_team": "Inter Miami",
+      "away_team": "Atlanta Utd",
+      "odds": {}
+    },
+    {
+      "datetime": "29.06. 01:30",
+      "home_team": "New England Revolution",
+      "away_team": "Colorado Rapids",
+      "odds": {}
+    },
+    {
+      "datetime": "29.06. 01:30",
+      "home_team": "New York Red Bulls",
+      "away_team": "Minnesota United",
+      "odds": {}
+    },
+    {
+      "datetime": "29.06. 01:30",
+      "home_team": "Orlando City",
+      "away_team": "FC Cincinnati",
+      "odds": {}
+    },
+    {
+      "datetime": "29.06. 01:30",
+      "home_team": "Toronto FC",
+      "away_team": "Portland Timbers",
+      "odds": {}
+    },
+    {
+      "datetime": "29.06. 02:30",
+      "home_team": "Chicago Fire",
+      "away_team": "Charlotte",
+      "odds": {}
+    },
+    {
+      "datetime": "29.06. 02:30",
+      "home_team": "FC Dallas",
+      "away_team": "San Diego FC",
+      "odds": {}
+    },
+    {
+      "datetime": "29.06. 02:30",
+      "home_team": "Houston Dynamo",
+      "away_team": "St. Louis City",
+      "odds": {}
+    },
+    {
+      "datetime": "29.06. 02:30",
+      "home_team": "Sporting Kansas City",
+      "away_team": "Real Salt Lake",
+      "odds": {}
+    },
+    {
+      "datetime": "29.06. 04:30",
+      "home_team": "Los Angeles FC",
+      "away_team": "Vancouver Whitecaps",
+      "odds": {}
+    },
+    {
+      "datetime": "29.06. 04:30",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Los Angeles Galaxy",
+      "odds": {}
+    },
+    {
+      "datetime": "29.06. 04:30",
+      "home_team": "Seattle Sounders",
+      "away_team": "Austin FC",
+      "odds": {}
+    },
+    {
+      "datetime": "30.06. 00:00",
+      "home_team": "Columbus Crew",
+      "away_team": "Philadelphia Union",
+      "odds": {}
+    },
+    {
+      "datetime": "04.07. 01:30",
+      "home_team": "New York City",
+      "away_team": "Toronto FC",
+      "odds": {}
+    },
+    {
+      "datetime": "05.07. 02:30",
+      "home_team": "FC Dallas",
+      "away_team": "Minnesota United",
+      "odds": {}
+    },
+    {
+      "datetime": "05.07. 03:30",
+      "home_team": "Colorado Rapids",
+      "away_team": "Sporting Kansas City",
+      "odds": {}
+    },
+    {
+      "datetime": "05.07. 04:30",
+      "home_team": "Los Angeles Galaxy",
+      "away_team": "Vancouver Whitecaps",
+      "odds": {}
+    },
+    {
+      "datetime": "06.07. 01:00",
+      "home_team": "Charlotte",
+      "away_team": "Orlando City",
+      "odds": {}
+    },
+    {
+      "datetime": "06.07. 01:30",
+      "home_team": "CF Montreal",
+      "away_team": "Inter Miami",
+      "odds": {}
+    },
+    {
+      "datetime": "06.07. 01:30",
+      "home_team": "DC United",
+      "away_team": "Atlanta Utd",
+      "odds": {}
+    },
+    {
+      "datetime": "06.07. 01:30",
+      "home_team": "FC Cincinnati",
+      "away_team": "Chicago Fire",
+      "odds": {}
+    },
+    {
+      "datetime": "06.07. 02:30",
+      "home_team": "Austin FC",
+      "away_team": "Los Angeles FC",
+      "odds": {}
+    },
+    {
+      "datetime": "06.07. 02:30",
+      "home_team": "Nashville SC",
+      "away_team": "Philadelphia Union",
+      "odds": {}
+    },
+    {
+      "datetime": "06.07. 03:30",
+      "home_team": "Real Salt Lake",
+      "away_team": "St. Louis City",
+      "odds": {}
+    },
+    {
+      "datetime": "06.07. 04:30",
+      "home_team": "Portland Timbers",
+      "away_team": "New England Revolution",
+      "odds": {}
+    },
+    {
+      "datetime": "06.07. 04:30",
+      "home_team": "San Diego FC",
+      "away_team": "Houston Dynamo",
+      "odds": {}
+    },
+    {
+      "datetime": "06.07. 04:30",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "New York Red Bulls",
+      "odds": {}
+    },
+    {
+      "datetime": "06.07. 23:00",
+      "home_team": "Seattle Sounders",
+      "away_team": "Columbus Crew",
+      "odds": {}
+    },
+    {
+      "datetime": "10.07. 01:30",
+      "home_team": "New England Revolution",
+      "away_team": "Inter Miami",
+      "odds": {}
+    },
+    {
+      "datetime": "10.07. 04:30",
+      "home_team": "Los Angeles FC",
+      "away_team": "Colorado Rapids",
+      "odds": {}
+    },
+    {
+      "datetime": "13.07. 01:30",
+      "home_team": "Charlotte",
+      "away_team": "New York City",
+      "odds": {}
+    },
+    {
+      "datetime": "13.07. 01:30",
+      "home_team": "FC Cincinnati",
+      "away_team": "Columbus Crew",
+      "odds": {}
+    },
+    {
+      "datetime": "13.07. 01:30",
+      "home_team": "Inter Miami",
+      "away_team": "Nashville SC",
+      "odds": {}
+    },
+    {
+      "datetime": "13.07. 01:30",
+      "home_team": "Orlando City",
+      "away_team": "CF Montreal",
+      "odds": {}
+    },
+    {
+      "datetime": "13.07. 01:30",
+      "home_team": "Philadelphia Union",
+      "away_team": "New York Red Bulls",
+      "odds": {}
+    },
+    {
+      "datetime": "13.07. 01:30",
+      "home_team": "Toronto FC",
+      "away_team": "Atlanta Utd",
+      "odds": {}
+    },
+    {
+      "datetime": "13.07. 02:30",
+      "home_team": "Austin FC",
+      "away_team": "New England Revolution",
+      "odds": {}
+    },
+    {
+      "datetime": "13.07. 02:30",
+      "home_team": "Chicago Fire",
+      "away_team": "San Diego FC",
+      "odds": {}
+    },
+    {
+      "datetime": "13.07. 02:30",
+      "home_team": "Minnesota United",
+      "away_team": "San Jose Earthquakes",
+      "odds": {}
+    },
+    {
+      "datetime": "13.07. 02:30",
+      "home_team": "Sporting Kansas City",
+      "away_team": "Seattle Sounders",
+      "odds": {}
+    },
+    {
+      "datetime": "13.07. 03:30",
+      "home_team": "Colorado Rapids",
+      "away_team": "Vancouver Whitecaps",
+      "odds": {}
+    },
+    {
+      "datetime": "13.07. 03:30",
+      "home_team": "Real Salt Lake",
+      "away_team": "Houston Dynamo",
+      "odds": {}
+    },
+    {
+      "datetime": "13.07. 04:30",
+      "home_team": "Los Angeles FC",
+      "away_team": "FC Dallas",
+      "odds": {}
+    },
+    {
+      "datetime": "13.07. 04:30",
+      "home_team": "Los Angeles Galaxy",
+      "away_team": "DC United",
+      "odds": {}
+    },
+    {
+      "datetime": "14.07. 01:00",
+      "home_team": "St. Louis City",
+      "away_team": "Portland Timbers",
+      "odds": {}
+    },
+    {
+      "datetime": "17.07. 01:30",
+      "home_team": "Atlanta Utd",
+      "away_team": "Chicago Fire",
+      "odds": {}
+    },
+    {
+      "datetime": "17.07. 01:30",
+      "home_team": "Charlotte",
+      "away_team": "DC United",
+      "odds": {}
+    },
+    {
+      "datetime": "17.07. 01:30",
+      "home_team": "FC Cincinnati",
+      "away_team": "Inter Miami",
+      "odds": {}
+    },
+    {
+      "datetime": "17.07. 01:30",
+      "home_team": "New York Red Bulls",
+      "away_team": "New England Revolution",
+      "odds": {}
+    },
+    {
+      "datetime": "17.07. 01:30",
+      "home_team": "Orlando City",
+      "away_team": "New York City",
+      "odds": {}
+    },
+    {
+      "datetime": "17.07. 01:30",
+      "home_team": "Philadelphia Union",
+      "away_team": "CF Montreal",
+      "odds": {}
+    },
+    {
+      "datetime": "17.07. 02:30",
+      "home_team": "Houston Dynamo",
+      "away_team": "Vancouver Whitecaps",
+      "odds": {}
+    },
+    {
+      "datetime": "17.07. 02:30",
+      "home_team": "Minnesota United",
+      "away_team": "Los Angeles FC",
+      "odds": {}
+    },
+    {
+      "datetime": "17.07. 02:30",
+      "home_team": "Nashville SC",
+      "away_team": "Columbus Crew",
+      "odds": {}
+    },
+    {
+      "datetime": "17.07. 04:00",
+      "home_team": "Seattle Sounders",
+      "away_team": "Colorado Rapids",
+      "odds": {}
+    },
+    {
+      "datetime": "17.07. 04:30",
+      "home_team": "Los Angeles Galaxy",
+      "away_team": "Austin FC",
+      "odds": {}
+    },
+    {
+      "datetime": "17.07. 04:30",
+      "home_team": "Portland Timbers",
+      "away_team": "Real Salt Lake",
+      "odds": {}
+    },
+    {
+      "datetime": "17.07. 04:30",
+      "home_team": "San Diego FC",
+      "away_team": "Toronto FC",
+      "odds": {}
+    },
+    {
+      "datetime": "17.07. 04:30",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "FC Dallas",
+      "odds": {}
+    },
+    {
+      "datetime": "20.07. 01:30",
+      "home_team": "Atlanta Utd",
+      "away_team": "Charlotte",
+      "odds": {}
+    },
+    {
+      "datetime": "20.07. 01:30",
+      "home_team": "CF Montreal",
+      "away_team": "Chicago Fire",
+      "odds": {}
+    },
+    {
+      "datetime": "20.07. 01:30",
+      "home_team": "Columbus Crew",
+      "away_team": "DC United",
+      "odds": {}
+    },
+    {
+      "datetime": "20.07. 01:30",
+      "home_team": "New England Revolution",
+      "away_team": "Orlando City",
+      "odds": {}
+    },
+    {
+      "datetime": "20.07. 01:30",
+      "home_team": "New York Red Bulls",
+      "away_team": "Inter Miami",
+      "odds": {}
+    },
+    {
+      "datetime": "20.07. 02:30",
+      "home_team": "FC Dallas",
+      "away_team": "St. Louis City",
+      "odds": {}
+    },
+    {
+      "datetime": "20.07. 02:30",
+      "home_team": "Houston Dynamo",
+      "away_team": "Philadelphia Union",
+      "odds": {}
+    },
+    {
+      "datetime": "20.07. 02:30",
+      "home_team": "Nashville SC",
+      "away_team": "Toronto FC",
+      "odds": {}
+    },
+    {
+      "datetime": "20.07. 02:30",
+      "home_team": "Seattle Sounders",
+      "away_team": "San Jose Earthquakes",
+      "odds": {}
+    },
+    {
+      "datetime": "20.07. 02:30",
+      "home_team": "Sporting Kansas City",
+      "away_team": "New York City",
+      "odds": {}
+    },
+    {
+      "datetime": "20.07. 03:30",
+      "home_team": "Real Salt Lake",
+      "away_team": "FC Cincinnati",
+      "odds": {}
+    },
+    {
+      "datetime": "20.07. 04:30",
+      "home_team": "Los Angeles FC",
+      "away_team": "Los Angeles Galaxy",
+      "odds": {}
+    },
+    {
+      "datetime": "20.07. 04:30",
+      "home_team": "Portland Timbers",
+      "away_team": "Minnesota United",
+      "odds": {}
+    },
+    {
+      "datetime": "20.07. 04:30",
+      "home_team": "San Diego FC",
+      "away_team": "Vancouver Whitecaps",
+      "odds": {}
+    },
+    {
+      "datetime": "26.07. 01:30",
+      "home_team": "Columbus Crew",
+      "away_team": "Orlando City",
+      "odds": {}
+    },
+    {
+      "datetime": "26.07. 01:30",
+      "home_team": "New England Revolution",
+      "away_team": "CF Montreal",
+      "odds": {}
+    },
+    {
+      "datetime": "26.07. 02:30",
+      "home_team": "FC Dallas",
+      "away_team": "New York City",
+      "odds": {}
+    },
+    {
+      "datetime": "26.07. 02:30",
+      "home_team": "Houston Dynamo",
+      "away_team": "Los Angeles Galaxy",
+      "odds": {}
+    },
+    {
+      "datetime": "26.07. 04:30",
+      "home_team": "Los Angeles FC",
+      "away_team": "Portland Timbers",
+      "odds": {}
+    },
+    {
+      "datetime": "26.07. 04:30",
+      "home_team": "San Diego FC",
+      "away_team": "Nashville SC",
+      "odds": {}
+    },
+    {
+      "datetime": "27.07. 01:00",
+      "home_team": "Inter Miami",
+      "away_team": "FC Cincinnati",
+      "odds": {}
+    },
+    {
+      "datetime": "27.07. 01:30",
+      "home_team": "Atlanta Utd",
+      "away_team": "Seattle Sounders",
+      "odds": {}
+    },
+    {
+      "datetime": "27.07. 01:30",
+      "home_team": "Charlotte",
+      "away_team": "Toronto FC",
+      "odds": {}
+    },
+    {
+      "datetime": "27.07. 01:30",
+      "home_team": "DC United",
+      "away_team": "Austin FC",
+      "odds": {}
+    },
+    {
+      "datetime": "27.07. 01:30",
+      "home_team": "Philadelphia Union",
+      "away_team": "Colorado Rapids",
+      "odds": {}
+    },
+    {
+      "datetime": "27.07. 02:30",
+      "home_team": "Chicago Fire",
+      "away_team": "New York Red Bulls",
+      "odds": {}
+    },
+    {
+      "datetime": "27.07. 02:30",
+      "home_team": "St. Louis City",
+      "away_team": "Minnesota United",
+      "odds": {}
+    },
+    {
+      "datetime": "27.07. 03:30",
+      "home_team": "Real Salt Lake",
+      "away_team": "San Jose Earthquakes",
+      "odds": {}
+    },
+    {
+      "datetime": "27.07. 04:30",
+      "home_team": "Vancouver Whitecaps",
+      "away_team": "Sporting Kansas City",
+      "odds": {}
+    },
+    {
+      "datetime": "10.08. 01:30",
+      "home_team": "CF Montreal",
+      "away_team": "Atlanta Utd",
+      "odds": {}
+    },
+    {
+      "datetime": "10.08. 01:30",
+      "home_team": "New England Revolution",
+      "away_team": "DC United",
+      "odds": {}
+    },
+    {
+      "datetime": "10.08. 01:30",
+      "home_team": "New York City",
+      "away_team": "Columbus Crew",
+      "odds": {}
+    },
+    {
+      "datetime": "10.08. 01:30",
+      "home_team": "Philadelphia Union",
+      "away_team": "Toronto FC",
+      "odds": {}
+    },
+    {
+      "datetime": "10.08. 02:30",
+      "home_team": "Austin FC",
+      "away_team": "Houston Dynamo",
+      "odds": {}
+    },
+    {
+      "datetime": "10.08. 02:30",
+      "home_team": "Chicago Fire",
+      "away_team": "Los Angeles FC",
+      "odds": {}
+    },
+    {
+      "datetime": "10.08. 02:30",
+      "home_team": "FC Dallas",
+      "away_team": "Portland Timbers",
+      "odds": {}
+    },
+    {
+      "datetime": "10.08. 02:30",
+      "home_team": "Sporting Kansas City",
+      "away_team": "San Diego FC",
+      "odds": {}
+    },
+    {
+      "datetime": "10.08. 02:30",
+      "home_team": "St. Louis City",
+      "away_team": "Nashville SC",
+      "odds": {}
+    },
+    {
+      "datetime": "10.08. 04:30",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Vancouver Whitecaps",
+      "odds": {}
+    },
+    {
+      "datetime": "11.08. 00:00",
+      "home_team": "FC Cincinnati",
+      "away_team": "Charlotte",
+      "odds": {}
+    },
+    {
+      "datetime": "11.08. 00:00",
+      "home_team": "Minnesota United",
+      "away_team": "Colorado Rapids",
+      "odds": {}
+    },
+    {
+      "datetime": "11.08. 00:00",
+      "home_team": "New York Red Bulls",
+      "away_team": "Real Salt Lake",
+      "odds": {}
+    },
+    {
+      "datetime": "11.08. 02:00",
+      "home_team": "Orlando City",
+      "away_team": "Inter Miami",
+      "odds": {}
+    },
+    {
+      "datetime": "11.08. 04:00",
+      "home_team": "Los Angeles Galaxy",
+      "away_team": "Seattle Sounders",
+      "odds": {}
+    },
+    {
+      "datetime": "17.08. 01:30",
+      "home_team": "CF Montreal",
+      "away_team": "DC United",
+      "odds": {}
+    },
+    {
+      "datetime": "17.08. 01:30",
+      "home_team": "Charlotte",
+      "away_team": "Real Salt Lake",
+      "odds": {}
+    },
+    {
+      "datetime": "17.08. 01:30",
+      "home_team": "Inter Miami",
+      "away_team": "Los Angeles Galaxy",
+      "odds": {}
+    },
+    {
+      "datetime": "17.08. 01:30",
+      "home_team": "New England Revolution",
+      "away_team": "Los Angeles FC",
+      "odds": {}
+    },
+    {
+      "datetime": "17.08. 01:30",
+      "home_team": "New York Red Bulls",
+      "away_team": "Philadelphia Union",
+      "odds": {}
+    },
+    {
+      "datetime": "17.08. 01:30",
+      "home_team": "Orlando City",
+      "away_team": "Sporting Kansas City",
+      "odds": {}
+    },
+    {
+      "datetime": "17.08. 01:30",
+      "home_team": "Toronto FC",
+      "away_team": "Columbus Crew",
+      "odds": {}
+    },
+    {
+      "datetime": "17.08. 02:30",
+      "home_team": "Austin FC",
+      "away_team": "FC Dallas",
+      "odds": {}
+    },
+    {
+      "datetime": "17.08. 02:30",
+      "home_team": "Chicago Fire",
+      "away_team": "St. Louis City",
+      "odds": {}
+    },
+    {
+      "datetime": "17.08. 02:30",
+      "home_team": "Minnesota United",
+      "away_team": "Seattle Sounders",
+      "odds": {}
+    },
+    {
+      "datetime": "17.08. 03:30",
+      "home_team": "Colorado Rapids",
+      "away_team": "Atlanta Utd",
+      "odds": {}
+    },
+    {
+      "datetime": "17.08. 04:30",
+      "home_team": "Portland Timbers",
+      "away_team": "FC Cincinnati",
+      "odds": {}
+    },
+    {
+      "datetime": "17.08. 23:00",
+      "home_team": "New York City",
+      "away_team": "Nashville SC",
+      "odds": {}
+    },
+    {
+      "datetime": "18.08. 01:00",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "San Diego FC",
+      "odds": {}
+    },
+    {
+      "datetime": "18.08. 03:00",
+      "home_team": "Vancouver Whitecaps",
+      "away_team": "Houston Dynamo",
+      "odds": {}
+    },
+    {
+      "datetime": "24.08. 01:30",
+      "home_team": "CF Montreal",
+      "away_team": "Austin FC",
+      "odds": {}
+    },
+    {
+      "datetime": "24.08. 01:30",
+      "home_team": "Columbus Crew",
+      "away_team": "New England Revolution",
+      "odds": {}
+    },
+    {
+      "datetime": "24.08. 01:30",
+      "home_team": "DC United",
+      "away_team": "Inter Miami",
+      "odds": {}
+    },
+    {
+      "datetime": "24.08. 01:30",
+      "home_team": "FC Cincinnati",
+      "away_team": "New York City",
+      "odds": {}
+    },
+    {
+      "datetime": "24.08. 01:30",
+      "home_team": "Philadelphia Union",
+      "away_team": "Chicago Fire",
+      "odds": {}
+    },
+    {
+      "datetime": "24.08. 02:30",
+      "home_team": "FC Dallas",
+      "away_team": "Los Angeles FC",
+      "odds": {}
+    },
+    {
+      "datetime": "24.08. 02:30",
+      "home_team": "Houston Dynamo",
+      "away_team": "San Jose Earthquakes",
+      "odds": {}
+    },
+    {
+      "datetime": "24.08. 02:30",
+      "home_team": "Nashville SC",
+      "away_team": "Orlando City",
+      "odds": {}
+    },
+    {
+      "datetime": "24.08. 03:30",
+      "home_team": "Real Salt Lake",
+      "away_team": "Minnesota United",
+      "odds": {}
+    },
+    {
+      "datetime": "24.08. 03:30",
+      "home_team": "Vancouver Whitecaps",
+      "away_team": "St. Louis City",
+      "odds": {}
+    },
+    {
+      "datetime": "24.08. 04:30",
+      "home_team": "Los Angeles Galaxy",
+      "away_team": "Colorado Rapids",
+      "odds": {}
+    },
+    {
+      "datetime": "24.08. 04:30",
+      "home_team": "San Diego FC",
+      "away_team": "Portland Timbers",
+      "odds": {}
+    },
+    {
+      "datetime": "24.08. 22:00",
+      "home_team": "Atlanta Utd",
+      "away_team": "Toronto FC",
+      "odds": {}
+    },
+    {
+      "datetime": "25.08. 01:00",
+      "home_team": "Charlotte",
+      "away_team": "New York Red Bulls",
+      "odds": {}
+    },
+    {
+      "datetime": "25.08. 03:15",
+      "home_team": "Seattle Sounders",
+      "away_team": "Sporting Kansas City",
+      "odds": {}
+    },
+    {
+      "datetime": "31.08. 01:30",
+      "home_team": "FC Cincinnati",
+      "away_team": "Philadelphia Union",
+      "odds": {}
+    },
+    {
+      "datetime": "31.08. 01:30",
+      "home_team": "Inter Miami",
+      "away_team": "Chicago Fire",
+      "odds": {}
+    },
+    {
+      "datetime": "31.08. 01:30",
+      "home_team": "New England Revolution",
+      "away_team": "Charlotte",
+      "odds": {}
+    },
+    {
+      "datetime": "31.08. 01:30",
+      "home_team": "New York City",
+      "away_team": "DC United",
+      "odds": {}
+    },
+    {
+      "datetime": "31.08. 01:30",
+      "home_team": "New York Red Bulls",
+      "away_team": "Columbus Crew",
+      "odds": {}
+    },
+    {
+      "datetime": "31.08. 01:30",
+      "home_team": "Orlando City",
+      "away_team": "Vancouver Whitecaps",
+      "odds": {}
+    },
+    {
+      "datetime": "31.08. 01:30",
+      "home_team": "Toronto FC",
+      "away_team": "CF Montreal",
+      "odds": {}
+    },
+    {
+      "datetime": "31.08. 02:30",
+      "home_team": "Austin FC",
+      "away_team": "San Jose Earthquakes",
+      "odds": {}
+    },
+    {
+      "datetime": "31.08. 02:30",
+      "home_team": "Minnesota United",
+      "away_team": "Portland Timbers",
+      "odds": {}
+    },
+    {
+      "datetime": "31.08. 02:30",
+      "home_team": "Nashville SC",
+      "away_team": "Atlanta Utd",
+      "odds": {}
+    },
+    {
+      "datetime": "31.08. 02:30",
+      "home_team": "Sporting Kansas City",
+      "away_team": "Colorado Rapids",
+      "odds": {}
+    },
+    {
+      "datetime": "31.08. 02:30",
+      "home_team": "St. Louis City",
+      "away_team": "Houston Dynamo",
+      "odds": {}
+    },
+    {
+      "datetime": "31.08. 04:30",
+      "home_team": "Los Angeles Galaxy",
+      "away_team": "FC Dallas",
+      "odds": {}
+    },
+    {
+      "datetime": "31.08. 04:30",
+      "home_team": "Seattle Sounders",
+      "away_team": "Real Salt Lake",
+      "odds": {}
+    },
+    {
+      "datetime": "01.09. 04:30",
+      "home_team": "Los Angeles FC",
+      "away_team": "San Diego FC",
+      "odds": {}
+    },
+    {
+      "datetime": "07.09. 02:30",
+      "home_team": "Chicago Fire",
+      "away_team": "New England Revolution",
+      "odds": {}
+    },
+    {
+      "datetime": "07.09. 02:30",
+      "home_team": "St. Louis City",
+      "away_team": "FC Dallas",
+      "odds": {}
+    },
+    {
+      "datetime": "08.09. 01:00",
+      "home_team": "Sporting Kansas City",
+      "away_team": "Austin FC",
+      "odds": {}
+    },
+    {
+      "datetime": "14.09. 01:30",
+      "home_team": "Atlanta Utd",
+      "away_team": "Columbus Crew",
+      "odds": {}
+    },
+    {
+      "datetime": "14.09. 01:30",
+      "home_team": "CF Montreal",
+      "away_team": "St. Louis City",
+      "odds": {}
+    },
+    {
+      "datetime": "14.09. 01:30",
+      "home_team": "Charlotte",
+      "away_team": "Inter Miami",
+      "odds": {}
+    },
+    {
+      "datetime": "14.09. 01:30",
+      "home_team": "DC United",
+      "away_team": "Orlando City",
+      "odds": {}
+    },
+    {
+      "datetime": "14.09. 01:30",
+      "home_team": "FC Cincinnati",
+      "away_team": "Nashville SC",
+      "odds": {}
+    },
+    {
+      "datetime": "14.09. 01:30",
+      "home_team": "New England Revolution",
+      "away_team": "Toronto FC",
+      "odds": {}
+    },
+    {
+      "datetime": "14.09. 01:30",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Los Angeles FC",
+      "odds": {}
+    },
+    {
+      "datetime": "14.09. 02:30",
+      "home_team": "Chicago Fire",
+      "away_team": "New York City",
+      "odds": {}
+    },
+    {
+      "datetime": "14.09. 02:30",
+      "home_team": "FC Dallas",
+      "away_team": "Austin FC",
+      "odds": {}
+    },
+    {
+      "datetime": "14.09. 02:30",
+      "home_team": "Seattle Sounders",
+      "away_team": "Los Angeles Galaxy",
+      "odds": {}
+    },
+    {
+      "datetime": "14.09. 03:30",
+      "home_team": "Colorado Rapids",
+      "away_team": "Houston Dynamo",
+      "odds": {}
+    },
+    {
+      "datetime": "14.09. 03:30",
+      "home_team": "Real Salt Lake",
+      "away_team": "Sporting Kansas City",
+      "odds": {}
+    },
+    {
+      "datetime": "14.09. 03:30",
+      "home_team": "Vancouver Whitecaps",
+      "away_team": "Philadelphia Union",
+      "odds": {}
+    },
+    {
+      "datetime": "14.09. 04:30",
+      "home_team": "Portland Timbers",
+      "away_team": "New York Red Bulls",
+      "odds": {}
+    },
+    {
+      "datetime": "14.09. 04:30",
+      "home_team": "San Diego FC",
+      "away_team": "Minnesota United",
+      "odds": {}
+    },
+    {
+      "datetime": "17.09. 01:30",
+      "home_team": "Inter Miami",
+      "away_team": "Seattle Sounders",
+      "odds": {}
+    },
+    {
+      "datetime": "20.09. 01:30",
+      "home_team": "New York City",
+      "away_team": "Charlotte",
+      "odds": {}
+    },
+    {
+      "datetime": "20.09. 20:30",
+      "home_team": "Philadelphia Union",
+      "away_team": "New England Revolution",
+      "odds": {}
+    },
+    {
+      "datetime": "20.09. 22:30",
+      "home_team": "Atlanta Utd",
+      "away_team": "San Diego FC",
+      "odds": {}
+    },
+    {
+      "datetime": "21.09. 01:30",
+      "home_team": "CF Montreal",
+      "away_team": "New York Red Bulls",
+      "odds": {}
+    },
+    {
+      "datetime": "21.09. 01:30",
+      "home_team": "Columbus Crew",
+      "away_team": "Toronto FC",
+      "odds": {}
+    },
+    {
+      "datetime": "21.09. 01:30",
+      "home_team": "Inter Miami",
+      "away_team": "DC United",
+      "odds": {}
+    },
+    {
+      "datetime": "21.09. 01:30",
+      "home_team": "Orlando City",
+      "away_team": "Nashville SC",
+      "odds": {}
+    },
+    {
+      "datetime": "21.09. 02:30",
+      "home_team": "Austin FC",
+      "away_team": "Seattle Sounders",
+      "odds": {}
+    },
+    {
+      "datetime": "21.09. 02:30",
+      "home_team": "FC Dallas",
+      "away_team": "Colorado Rapids",
+      "odds": {}
+    },
+    {
+      "datetime": "21.09. 02:30",
+      "home_team": "Houston Dynamo",
+      "away_team": "Portland Timbers",
+      "odds": {}
+    },
+    {
+      "datetime": "21.09. 02:30",
+      "home_team": "Minnesota United",
+      "away_team": "Chicago Fire",
+      "odds": {}
+    },
+    {
+      "datetime": "21.09. 02:30",
+      "home_team": "Sporting Kansas City",
+      "away_team": "Vancouver Whitecaps",
+      "odds": {}
+    },
+    {
+      "datetime": "21.09. 04:30",
+      "home_team": "Los Angeles Galaxy",
+      "away_team": "FC Cincinnati",
+      "odds": {}
+    },
+    {
+      "datetime": "21.09. 04:30",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "St. Louis City",
+      "odds": {}
+    },
+    {
+      "datetime": "22.09. 03:00",
+      "home_team": "Los Angeles FC",
+      "away_team": "Real Salt Lake",
+      "odds": {}
+    },
+    {
+      "datetime": "25.09. 01:30",
+      "home_team": "New York City",
+      "away_team": "Inter Miami",
+      "odds": {}
+    },
+    {
+      "datetime": "25.09. 04:30",
+      "home_team": "Vancouver Whitecaps",
+      "away_team": "Portland Timbers",
+      "odds": {}
+    },
+    {
+      "datetime": "27.09. 20:30",
+      "home_team": "FC Cincinnati",
+      "away_team": "Orlando City",
+      "odds": {}
+    },
+    {
+      "datetime": "27.09. 22:30",
+      "home_team": "Toronto FC",
+      "away_team": "Inter Miami",
+      "odds": {}
+    },
+    {
+      "datetime": "28.09. 01:30",
+      "home_team": "Charlotte",
+      "away_team": "CF Montreal",
+      "odds": {}
+    },
+    {
+      "datetime": "28.09. 01:30",
+      "home_team": "DC United",
+      "away_team": "Philadelphia Union",
+      "odds": {}
+    },
+    {
+      "datetime": "28.09. 01:30",
+      "home_team": "New England Revolution",
+      "away_team": "Atlanta Utd",
+      "odds": {}
+    },
+    {
+      "datetime": "28.09. 01:30",
+      "home_team": "New York Red Bulls",
+      "away_team": "New York City",
+      "odds": {}
+    },
+    {
+      "datetime": "28.09. 02:30",
+      "home_team": "Chicago Fire",
+      "away_team": "Columbus Crew",
+      "odds": {}
+    },
+    {
+      "datetime": "28.09. 02:30",
+      "home_team": "Nashville SC",
+      "away_team": "Houston Dynamo",
+      "odds": {}
+    },
+    {
+      "datetime": "28.09. 02:30",
+      "home_team": "St. Louis City",
+      "away_team": "Los Angeles FC",
+      "odds": {}
+    },
+    {
+      "datetime": "28.09. 03:30",
+      "home_team": "Colorado Rapids",
+      "away_team": "Minnesota United",
+      "odds": {}
+    },
+    {
+      "datetime": "28.09. 03:30",
+      "home_team": "Real Salt Lake",
+      "away_team": "Austin FC",
+      "odds": {}
+    },
+    {
+      "datetime": "28.09. 04:30",
+      "home_team": "Los Angeles Galaxy",
+      "away_team": "Sporting Kansas City",
+      "odds": {}
+    },
+    {
+      "datetime": "28.09. 04:30",
+      "home_team": "Portland Timbers",
+      "away_team": "FC Dallas",
+      "odds": {}
+    },
+    {
+      "datetime": "28.09. 04:30",
+      "home_team": "San Diego FC",
+      "away_team": "San Jose Earthquakes",
+      "odds": {}
+    },
+    {
+      "datetime": "28.09. 04:30",
+      "home_team": "Seattle Sounders",
+      "away_team": "Vancouver Whitecaps",
+      "odds": {}
+    },
+    {
+      "datetime": "04.10. 20:30",
+      "home_team": "CF Montreal",
+      "away_team": "Nashville SC",
+      "odds": {}
+    },
+    {
+      "datetime": "04.10. 20:30",
+      "home_team": "DC United",
+      "away_team": "Charlotte",
+      "odds": {}
+    },
+    {
+      "datetime": "04.10. 22:30",
+      "home_team": "FC Dallas",
+      "away_team": "Los Angeles Galaxy",
+      "odds": {}
+    },
+    {
+      "datetime": "05.10. 01:30",
+      "home_team": "Inter Miami",
+      "away_team": "New England Revolution",
+      "odds": {}
+    },
+    {
+      "datetime": "05.10. 01:30",
+      "home_team": "New York Red Bulls",
+      "away_team": "FC Cincinnati",
+      "odds": {}
+    },
+    {
+      "datetime": "05.10. 01:30",
+      "home_team": "Orlando City",
+      "away_team": "Columbus Crew",
+      "odds": {}
+    },
+    {
+      "datetime": "05.10. 01:30",
+      "home_team": "Philadelphia Union",
+      "away_team": "New York City",
+      "odds": {}
+    },
+    {
+      "datetime": "05.10. 02:30",
+      "home_team": "Austin FC",
+      "away_team": "St. Louis City",
+      "odds": {}
+    },
+    {
+      "datetime": "05.10. 02:30",
+      "home_team": "Chicago Fire",
+      "away_team": "Toronto FC",
+      "odds": {}
+    },
+    {
+      "datetime": "05.10. 02:30",
+      "home_team": "Houston Dynamo",
+      "away_team": "San Diego FC",
+      "odds": {}
+    },
+    {
+      "datetime": "05.10. 02:30",
+      "home_team": "Minnesota United",
+      "away_team": "Sporting Kansas City",
+      "odds": {}
+    },
+    {
+      "datetime": "05.10. 03:30",
+      "home_team": "Real Salt Lake",
+      "away_team": "Colorado Rapids",
+      "odds": {}
+    },
+    {
+      "datetime": "05.10. 04:30",
+      "home_team": "Seattle Sounders",
+      "away_team": "Portland Timbers",
+      "odds": {}
+    },
+    {
+      "datetime": "06.10. 03:00",
+      "home_team": "Vancouver Whitecaps",
+      "away_team": "San Jose Earthquakes",
+      "odds": {}
+    },
+    {
+      "datetime": "06.10. 04:30",
+      "home_team": "Los Angeles FC",
+      "away_team": "Atlanta Utd",
+      "odds": {}
+    },
+    {
+      "datetime": "19.10. 00:00",
+      "home_team": "Atlanta Utd",
+      "away_team": "DC United",
+      "odds": {}
+    },
+    {
+      "datetime": "19.10. 00:00",
+      "home_team": "Charlotte",
+      "away_team": "Philadelphia Union",
+      "odds": {}
+    },
+    {
+      "datetime": "19.10. 00:00",
+      "home_team": "Columbus Crew",
+      "away_team": "New York Red Bulls",
+      "odds": {}
+    },
+    {
+      "datetime": "19.10. 00:00",
+      "home_team": "FC Cincinnati",
+      "away_team": "CF Montreal",
+      "odds": {}
+    },
+    {
+      "datetime": "19.10. 00:00",
+      "home_team": "Nashville SC",
+      "away_team": "Inter Miami",
+      "odds": {}
+    },
+    {
+      "datetime": "19.10. 00:00",
+      "home_team": "New England Revolution",
+      "away_team": "Chicago Fire",
+      "odds": {}
+    },
+    {
+      "datetime": "19.10. 00:00",
+      "home_team": "New York City",
+      "away_team": "Seattle Sounders",
+      "odds": {}
+    },
+    {
+      "datetime": "19.10. 00:00",
+      "home_team": "Toronto FC",
+      "away_team": "Orlando City",
+      "odds": {}
+    },
+    {
+      "datetime": "19.10. 03:00",
+      "home_team": "Colorado Rapids",
+      "away_team": "Los Angeles FC",
+      "odds": {}
+    },
+    {
+      "datetime": "19.10. 03:00",
+      "home_team": "Los Angeles Galaxy",
+      "away_team": "Minnesota United",
+      "odds": {}
+    },
+    {
+      "datetime": "19.10. 03:00",
+      "home_team": "Portland Timbers",
+      "away_team": "San Diego FC",
+      "odds": {}
+    },
+    {
+      "datetime": "19.10. 03:00",
+      "home_team": "San Jose Earthquakes",
+      "away_team": "Austin FC",
+      "odds": {}
+    },
+    {
+      "datetime": "19.10. 03:00",
+      "home_team": "Sporting Kansas City",
+      "away_team": "Houston Dynamo",
+      "odds": {}
+    },
+    {
+      "datetime": "19.10. 03:00",
+      "home_team": "St. Louis City",
+      "away_team": "Real Salt Lake",
+      "odds": {}
+    },
+    {
+      "datetime": "19.10. 03:00",
+      "home_team": "Vancouver Whitecaps",
+      "away_team": "FC Dallas",
+      "odds": {}
+    }
+  ],
+  "Club World Cup": [
+    {
+      "datetime": "Tomorrow 04:30",
+      "home_team": "Los Angeles FC",
+      "away_team": "Club America",
+      "odds": {
+        "home_win": 2.58,
+        "draw": 3.37,
+        "away_win": 2.61
+      }
+    }
+  ],
+  "Serie A Betano": [
+    {
+      "datetime": "05.06. 01:00",
+      "home_team": "Botafogo RJ",
+      "away_team": "Ceara",
+      "odds": {
+        "home_win": 1.63,
+        "draw": 3.72,
+        "away_win": 5.51
+      }
+    },
+    {
+      "datetime": "Today 23:30",
+      "home_team": "Bahia",
+      "away_team": "Sao Paulo",
+      "odds": {
+        "home_win": 2.1,
+        "draw": 3.16,
+        "away_win": 3.85
+      }
+    },
+    {
+      "datetime": "Tomorrow 02:00",
+      "home_team": "Vasco",
+      "away_team": "Bragantino",
+      "odds": {
+        "home_win": 2.54,
+        "draw": 3.11,
+        "away_win": 2.96
+      }
+    },
+    {
+      "datetime": "Tomorrow 16:00",
+      "home_team": "Mirassol",
+      "away_team": "Sport Recife",
+      "odds": {
+        "home_win": 1.98,
+        "draw": 3.27,
+        "away_win": 4.06
+      }
+    },
+    {
+      "datetime": "Tomorrow 21:00",
+      "home_team": "Juventude",
+      "away_team": "Gremio",
+      "odds": {
+        "home_win": 2.76,
+        "draw": 3.2,
+        "away_win": 2.61
+      }
+    },
+    {
+      "datetime": "Tomorrow 21:00",
+      "home_team": "Santos",
+      "away_team": "Botafogo RJ",
+      "odds": {
+        "home_win": 2.52,
+        "draw": 3.05,
+        "away_win": 3.0
+      }
+    },
+    {
+      "datetime": "Tomorrow 23:30",
+      "home_team": "Ceara",
+      "away_team": "Atletico-MG",
+      "odds": {
+        "home_win": 2.82,
+        "draw": 3.04,
+        "away_win": 2.68
+      }
+    },
+    {
+      "datetime": "Tomorrow 23:30",
+      "home_team": "Corinthians",
+      "away_team": "Vitoria",
+      "odds": {
+        "home_win": 1.67,
+        "draw": 3.56,
+        "away_win": 5.52
+      }
+    },
+    {
+      "datetime": "Tomorrow 23:30",
+      "home_team": "Flamengo RJ",
+      "away_team": "Fortaleza",
+      "odds": {
+        "home_win": 1.37,
+        "draw": 4.7,
+        "away_win": 8.4
+      }
+    },
+    {
+      "datetime": "02.06. 00:30",
+      "home_team": "Cruzeiro",
+      "away_team": "Palmeiras",
+      "odds": {
+        "home_win": 3.22,
+        "draw": 2.91,
+        "away_win": 2.49
+      }
+    },
+    {
+      "datetime": "02.06. 01:30",
+      "home_team": "Internacional",
+      "away_team": "Fluminense",
+      "odds": {
+        "home_win": 1.97,
+        "draw": 3.3,
+        "away_win": 4.08
+      }
+    },
+    {
+      "datetime": "11.06. 22:00",
+      "home_team": "Botafogo RJ",
+      "away_team": "Mirassol",
+      "odds": {}
+    },
+    {
+      "datetime": "11.06. 22:00",
+      "home_team": "Fluminense",
+      "away_team": "Ceara",
+      "odds": {}
+    },
+    {
+      "datetime": "11.06. 22:00",
+      "home_team": "Palmeiras",
+      "away_team": "Juventude",
+      "odds": {}
+    },
+    {
+      "datetime": "11.06. 22:00",
+      "home_team": "Sport Recife",
+      "away_team": "Flamengo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "13.06. 00:00",
+      "home_team": "Bragantino",
+      "away_team": "Bahia",
+      "odds": {
+        "home_win": 2.04,
+        "draw": 3.3,
+        "away_win": 3.66
+      }
+    },
+    {
+      "datetime": "13.06. 00:00",
+      "home_team": "Vitoria",
+      "away_team": "Cruzeiro",
+      "odds": {
+        "home_win": 2.59,
+        "draw": 3.23,
+        "away_win": 2.68
+      }
+    },
+    {
+      "datetime": "13.06. 00:30",
+      "home_team": "Fortaleza",
+      "away_team": "Santos",
+      "odds": {
+        "home_win": 2.22,
+        "draw": 3.23,
+        "away_win": 3.26
+      }
+    },
+    {
+      "datetime": "13.06. 01:00",
+      "home_team": "Gremio",
+      "away_team": "Corinthians",
+      "odds": {
+        "home_win": 2.32,
+        "draw": 3.23,
+        "away_win": 3.09
+      }
+    },
+    {
+      "datetime": "13.06. 02:30",
+      "home_team": "Atletico-MG",
+      "away_team": "Internacional",
+      "odds": {
+        "home_win": 2.29,
+        "draw": 3.23,
+        "away_win": 3.11
+      }
+    },
+    {
+      "datetime": "13.06. 02:30",
+      "home_team": "Sao Paulo",
+      "away_team": "Vasco",
+      "odds": {
+        "home_win": 1.79,
+        "draw": 3.43,
+        "away_win": 4.63
+      }
+    },
+    {
+      "datetime": "13.07. 22:00",
+      "home_team": "Bahia",
+      "away_team": "Atletico-MG",
+      "odds": {}
+    },
+    {
+      "datetime": "13.07. 22:00",
+      "home_team": "Corinthians",
+      "away_team": "Bragantino",
+      "odds": {}
+    },
+    {
+      "datetime": "13.07. 22:00",
+      "home_team": "Cruzeiro",
+      "away_team": "Gremio",
+      "odds": {}
+    },
+    {
+      "datetime": "13.07. 22:00",
+      "home_team": "Juventude",
+      "away_team": "Sport Recife",
+      "odds": {}
+    },
+    {
+      "datetime": "13.07. 22:00",
+      "home_team": "Flamengo RJ",
+      "away_team": "Sao Paulo",
+      "odds": {}
+    },
+    {
+      "datetime": "13.07. 22:00",
+      "home_team": "Fortaleza",
+      "away_team": "Ceara",
+      "odds": {}
+    },
+    {
+      "datetime": "13.07. 22:00",
+      "home_team": "Internacional",
+      "away_team": "Vitoria",
+      "odds": {}
+    },
+    {
+      "datetime": "13.07. 22:00",
+      "home_team": "Mirassol",
+      "away_team": "Fluminense",
+      "odds": {}
+    },
+    {
+      "datetime": "13.07. 22:00",
+      "home_team": "Santos",
+      "away_team": "Palmeiras",
+      "odds": {}
+    },
+    {
+      "datetime": "13.07. 22:00",
+      "home_team": "Vasco",
+      "away_team": "Botafogo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "17.07. 22:00",
+      "home_team": "Atletico-MG",
+      "away_team": "Sport Recife",
+      "odds": {}
+    },
+    {
+      "datetime": "17.07. 22:00",
+      "home_team": "Bahia",
+      "away_team": "Internacional",
+      "odds": {}
+    },
+    {
+      "datetime": "17.07. 22:00",
+      "home_team": "Botafogo RJ",
+      "away_team": "Vitoria",
+      "odds": {}
+    },
+    {
+      "datetime": "17.07. 22:00",
+      "home_team": "Bragantino",
+      "away_team": "Sao Paulo",
+      "odds": {}
+    },
+    {
+      "datetime": "17.07. 22:00",
+      "home_team": "Ceara",
+      "away_team": "Corinthians",
+      "odds": {}
+    },
+    {
+      "datetime": "17.07. 22:00",
+      "home_team": "Juventude",
+      "away_team": "Vasco",
+      "odds": {}
+    },
+    {
+      "datetime": "17.07. 22:00",
+      "home_team": "Fluminense",
+      "away_team": "Cruzeiro",
+      "odds": {}
+    },
+    {
+      "datetime": "17.07. 22:00",
+      "home_team": "Gremio",
+      "away_team": "Fortaleza",
+      "odds": {}
+    },
+    {
+      "datetime": "17.07. 22:00",
+      "home_team": "Palmeiras",
+      "away_team": "Mirassol",
+      "odds": {}
+    },
+    {
+      "datetime": "17.07. 22:00",
+      "home_team": "Santos",
+      "away_team": "Flamengo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "20.07. 22:00",
+      "home_team": "Cruzeiro",
+      "away_team": "Juventude",
+      "odds": {}
+    },
+    {
+      "datetime": "20.07. 22:00",
+      "home_team": "Flamengo RJ",
+      "away_team": "Fluminense",
+      "odds": {}
+    },
+    {
+      "datetime": "20.07. 22:00",
+      "home_team": "Fortaleza",
+      "away_team": "Bahia",
+      "odds": {}
+    },
+    {
+      "datetime": "20.07. 22:00",
+      "home_team": "Internacional",
+      "away_team": "Ceara",
+      "odds": {}
+    },
+    {
+      "datetime": "20.07. 22:00",
+      "home_team": "Mirassol",
+      "away_team": "Santos",
+      "odds": {}
+    },
+    {
+      "datetime": "20.07. 22:00",
+      "home_team": "Palmeiras",
+      "away_team": "Atletico-MG",
+      "odds": {}
+    },
+    {
+      "datetime": "20.07. 22:00",
+      "home_team": "Sao Paulo",
+      "away_team": "Corinthians",
+      "odds": {}
+    },
+    {
+      "datetime": "20.07. 22:00",
+      "home_team": "Sport Recife",
+      "away_team": "Botafogo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "20.07. 22:00",
+      "home_team": "Vasco",
+      "away_team": "Gremio",
+      "odds": {}
+    },
+    {
+      "datetime": "20.07. 22:00",
+      "home_team": "Vitoria",
+      "away_team": "Bragantino",
+      "odds": {}
+    },
+    {
+      "datetime": "24.07. 22:00",
+      "home_team": "Atletico-MG",
+      "away_team": "Fortaleza",
+      "odds": {}
+    },
+    {
+      "datetime": "24.07. 22:00",
+      "home_team": "Bragantino",
+      "away_team": "Flamengo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "24.07. 22:00",
+      "home_team": "Ceara",
+      "away_team": "Mirassol",
+      "odds": {}
+    },
+    {
+      "datetime": "24.07. 22:00",
+      "home_team": "Corinthians",
+      "away_team": "Cruzeiro",
+      "odds": {}
+    },
+    {
+      "datetime": "24.07. 22:00",
+      "home_team": "Juventude",
+      "away_team": "Sao Paulo",
+      "odds": {}
+    },
+    {
+      "datetime": "24.07. 22:00",
+      "home_team": "Fluminense",
+      "away_team": "Palmeiras",
+      "odds": {}
+    },
+    {
+      "datetime": "24.07. 22:00",
+      "home_team": "Gremio",
+      "away_team": "Botafogo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "24.07. 22:00",
+      "home_team": "Santos",
+      "away_team": "Internacional",
+      "odds": {}
+    },
+    {
+      "datetime": "24.07. 22:00",
+      "home_team": "Vasco",
+      "away_team": "Bahia",
+      "odds": {}
+    },
+    {
+      "datetime": "24.07. 22:00",
+      "home_team": "Vitoria",
+      "away_team": "Sport Recife",
+      "odds": {}
+    },
+    {
+      "datetime": "27.07. 22:00",
+      "home_team": "Bahia",
+      "away_team": "Juventude",
+      "odds": {}
+    },
+    {
+      "datetime": "27.07. 22:00",
+      "home_team": "Botafogo RJ",
+      "away_team": "Corinthians",
+      "odds": {}
+    },
+    {
+      "datetime": "27.07. 22:00",
+      "home_team": "Cruzeiro",
+      "away_team": "Ceara",
+      "odds": {}
+    },
+    {
+      "datetime": "27.07. 22:00",
+      "home_team": "Flamengo RJ",
+      "away_team": "Atletico-MG",
+      "odds": {}
+    },
+    {
+      "datetime": "27.07. 22:00",
+      "home_team": "Fortaleza",
+      "away_team": "Bragantino",
+      "odds": {}
+    },
+    {
+      "datetime": "27.07. 22:00",
+      "home_team": "Internacional",
+      "away_team": "Vasco",
+      "odds": {}
+    },
+    {
+      "datetime": "27.07. 22:00",
+      "home_team": "Mirassol",
+      "away_team": "Vitoria",
+      "odds": {}
+    },
+    {
+      "datetime": "27.07. 22:00",
+      "home_team": "Palmeiras",
+      "away_team": "Gremio",
+      "odds": {}
+    },
+    {
+      "datetime": "27.07. 22:00",
+      "home_team": "Sao Paulo",
+      "away_team": "Fluminense",
+      "odds": {}
+    },
+    {
+      "datetime": "27.07. 22:00",
+      "home_team": "Sport Recife",
+      "away_team": "Santos",
+      "odds": {}
+    },
+    {
+      "datetime": "03.08. 22:00",
+      "home_team": "Atletico-MG",
+      "away_team": "Bragantino",
+      "odds": {}
+    },
+    {
+      "datetime": "03.08. 22:00",
+      "home_team": "Botafogo RJ",
+      "away_team": "Cruzeiro",
+      "odds": {}
+    },
+    {
+      "datetime": "03.08. 22:00",
+      "home_team": "Ceara",
+      "away_team": "Flamengo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "03.08. 22:00",
+      "home_team": "Corinthians",
+      "away_team": "Fortaleza",
+      "odds": {}
+    },
+    {
+      "datetime": "03.08. 22:00",
+      "home_team": "Fluminense",
+      "away_team": "Gremio",
+      "odds": {}
+    },
+    {
+      "datetime": "03.08. 22:00",
+      "home_team": "Internacional",
+      "away_team": "Sao Paulo",
+      "odds": {}
+    },
+    {
+      "datetime": "03.08. 22:00",
+      "home_team": "Mirassol",
+      "away_team": "Vasco",
+      "odds": {}
+    },
+    {
+      "datetime": "03.08. 22:00",
+      "home_team": "Santos",
+      "away_team": "Juventude",
+      "odds": {}
+    },
+    {
+      "datetime": "03.08. 22:00",
+      "home_team": "Sport Recife",
+      "away_team": "Bahia",
+      "odds": {}
+    },
+    {
+      "datetime": "03.08. 22:00",
+      "home_team": "Vitoria",
+      "away_team": "Palmeiras",
+      "odds": {}
+    },
+    {
+      "datetime": "10.08. 22:00",
+      "home_team": "Bahia",
+      "away_team": "Fluminense",
+      "odds": {}
+    },
+    {
+      "datetime": "10.08. 22:00",
+      "home_team": "Bragantino",
+      "away_team": "Internacional",
+      "odds": {}
+    },
+    {
+      "datetime": "10.08. 22:00",
+      "home_team": "Cruzeiro",
+      "away_team": "Santos",
+      "odds": {}
+    },
+    {
+      "datetime": "10.08. 22:00",
+      "home_team": "Juventude",
+      "away_team": "Corinthians",
+      "odds": {}
+    },
+    {
+      "datetime": "10.08. 22:00",
+      "home_team": "Flamengo RJ",
+      "away_team": "Mirassol",
+      "odds": {}
+    },
+    {
+      "datetime": "10.08. 22:00",
+      "home_team": "Fortaleza",
+      "away_team": "Botafogo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "10.08. 22:00",
+      "home_team": "Gremio",
+      "away_team": "Sport Recife",
+      "odds": {}
+    },
+    {
+      "datetime": "10.08. 22:00",
+      "home_team": "Palmeiras",
+      "away_team": "Ceara",
+      "odds": {}
+    },
+    {
+      "datetime": "10.08. 22:00",
+      "home_team": "Sao Paulo",
+      "away_team": "Vitoria",
+      "odds": {}
+    },
+    {
+      "datetime": "10.08. 22:00",
+      "home_team": "Vasco",
+      "away_team": "Atletico-MG",
+      "odds": {}
+    },
+    {
+      "datetime": "17.08. 22:00",
+      "home_team": "Atletico-MG",
+      "away_team": "Gremio",
+      "odds": {}
+    },
+    {
+      "datetime": "17.08. 22:00",
+      "home_team": "Botafogo RJ",
+      "away_team": "Palmeiras",
+      "odds": {}
+    },
+    {
+      "datetime": "17.08. 22:00",
+      "home_team": "Ceara",
+      "away_team": "Bragantino",
+      "odds": {}
+    },
+    {
+      "datetime": "17.08. 22:00",
+      "home_team": "Corinthians",
+      "away_team": "Bahia",
+      "odds": {}
+    },
+    {
+      "datetime": "17.08. 22:00",
+      "home_team": "Fluminense",
+      "away_team": "Fortaleza",
+      "odds": {}
+    },
+    {
+      "datetime": "17.08. 22:00",
+      "home_team": "Internacional",
+      "away_team": "Flamengo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "17.08. 22:00",
+      "home_team": "Mirassol",
+      "away_team": "Cruzeiro",
+      "odds": {}
+    },
+    {
+      "datetime": "17.08. 22:00",
+      "home_team": "Santos",
+      "away_team": "Vasco",
+      "odds": {}
+    },
+    {
+      "datetime": "17.08. 22:00",
+      "home_team": "Sport Recife",
+      "away_team": "Sao Paulo",
+      "odds": {}
+    },
+    {
+      "datetime": "17.08. 22:00",
+      "home_team": "Vitoria",
+      "away_team": "Juventude",
+      "odds": {}
+    },
+    {
+      "datetime": "24.08. 22:00",
+      "home_team": "Bahia",
+      "away_team": "Santos",
+      "odds": {}
+    },
+    {
+      "datetime": "24.08. 22:00",
+      "home_team": "Bragantino",
+      "away_team": "Fluminense",
+      "odds": {}
+    },
+    {
+      "datetime": "24.08. 22:00",
+      "home_team": "Cruzeiro",
+      "away_team": "Internacional",
+      "odds": {}
+    },
+    {
+      "datetime": "24.08. 22:00",
+      "home_team": "Juventude",
+      "away_team": "Botafogo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "24.08. 22:00",
+      "home_team": "Flamengo RJ",
+      "away_team": "Vitoria",
+      "odds": {}
+    },
+    {
+      "datetime": "24.08. 22:00",
+      "home_team": "Fortaleza",
+      "away_team": "Mirassol",
+      "odds": {}
+    },
+    {
+      "datetime": "24.08. 22:00",
+      "home_team": "Gremio",
+      "away_team": "Ceara",
+      "odds": {}
+    },
+    {
+      "datetime": "24.08. 22:00",
+      "home_team": "Palmeiras",
+      "away_team": "Sport Recife",
+      "odds": {}
+    },
+    {
+      "datetime": "24.08. 22:00",
+      "home_team": "Sao Paulo",
+      "away_team": "Atletico-MG",
+      "odds": {}
+    },
+    {
+      "datetime": "24.08. 22:00",
+      "home_team": "Vasco",
+      "away_team": "Corinthians",
+      "odds": {}
+    },
+    {
+      "datetime": "31.08. 22:00",
+      "home_team": "Botafogo RJ",
+      "away_team": "Bragantino",
+      "odds": {}
+    },
+    {
+      "datetime": "31.08. 22:00",
+      "home_team": "Ceara",
+      "away_team": "Juventude",
+      "odds": {}
+    },
+    {
+      "datetime": "31.08. 22:00",
+      "home_team": "Corinthians",
+      "away_team": "Palmeiras",
+      "odds": {}
+    },
+    {
+      "datetime": "31.08. 22:00",
+      "home_team": "Cruzeiro",
+      "away_team": "Sao Paulo",
+      "odds": {}
+    },
+    {
+      "datetime": "31.08. 22:00",
+      "home_team": "Flamengo RJ",
+      "away_team": "Gremio",
+      "odds": {}
+    },
+    {
+      "datetime": "31.08. 22:00",
+      "home_team": "Internacional",
+      "away_team": "Fortaleza",
+      "odds": {}
+    },
+    {
+      "datetime": "31.08. 22:00",
+      "home_team": "Mirassol",
+      "away_team": "Bahia",
+      "odds": {}
+    },
+    {
+      "datetime": "31.08. 22:00",
+      "home_team": "Santos",
+      "away_team": "Fluminense",
+      "odds": {}
+    },
+    {
+      "datetime": "31.08. 22:00",
+      "home_team": "Sport Recife",
+      "away_team": "Vasco",
+      "odds": {}
+    },
+    {
+      "datetime": "31.08. 22:00",
+      "home_team": "Vitoria",
+      "away_team": "Atletico-MG",
+      "odds": {}
+    },
+    {
+      "datetime": "14.09. 22:00",
+      "home_team": "Atletico-MG",
+      "away_team": "Santos",
+      "odds": {}
+    },
+    {
+      "datetime": "14.09. 22:00",
+      "home_team": "Bahia",
+      "away_team": "Cruzeiro",
+      "odds": {}
+    },
+    {
+      "datetime": "14.09. 22:00",
+      "home_team": "Bragantino",
+      "away_team": "Sport Recife",
+      "odds": {}
+    },
+    {
+      "datetime": "14.09. 22:00",
+      "home_team": "Juventude",
+      "away_team": "Flamengo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "14.09. 22:00",
+      "home_team": "Fluminense",
+      "away_team": "Corinthians",
+      "odds": {}
+    },
+    {
+      "datetime": "14.09. 22:00",
+      "home_team": "Fortaleza",
+      "away_team": "Vitoria",
+      "odds": {}
+    },
+    {
+      "datetime": "14.09. 22:00",
+      "home_team": "Gremio",
+      "away_team": "Mirassol",
+      "odds": {}
+    },
+    {
+      "datetime": "14.09. 22:00",
+      "home_team": "Palmeiras",
+      "away_team": "Internacional",
+      "odds": {}
+    },
+    {
+      "datetime": "14.09. 22:00",
+      "home_team": "Sao Paulo",
+      "away_team": "Botafogo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "14.09. 22:00",
+      "home_team": "Vasco",
+      "away_team": "Ceara",
+      "odds": {}
+    },
+    {
+      "datetime": "21.09. 22:00",
+      "home_team": "Botafogo RJ",
+      "away_team": "Atletico-MG",
+      "odds": {}
+    },
+    {
+      "datetime": "21.09. 22:00",
+      "home_team": "Ceara",
+      "away_team": "Bahia",
+      "odds": {}
+    },
+    {
+      "datetime": "21.09. 22:00",
+      "home_team": "Cruzeiro",
+      "away_team": "Bragantino",
+      "odds": {}
+    },
+    {
+      "datetime": "21.09. 22:00",
+      "home_team": "Flamengo RJ",
+      "away_team": "Vasco",
+      "odds": {}
+    },
+    {
+      "datetime": "21.09. 22:00",
+      "home_team": "Internacional",
+      "away_team": "Gremio",
+      "odds": {}
+    },
+    {
+      "datetime": "21.09. 22:00",
+      "home_team": "Mirassol",
+      "away_team": "Juventude",
+      "odds": {}
+    },
+    {
+      "datetime": "21.09. 22:00",
+      "home_team": "Palmeiras",
+      "away_team": "Fortaleza",
+      "odds": {}
+    },
+    {
+      "datetime": "21.09. 22:00",
+      "home_team": "Santos",
+      "away_team": "Sao Paulo",
+      "odds": {}
+    },
+    {
+      "datetime": "21.09. 22:00",
+      "home_team": "Sport Recife",
+      "away_team": "Corinthians",
+      "odds": {}
+    },
+    {
+      "datetime": "21.09. 22:00",
+      "home_team": "Vitoria",
+      "away_team": "Fluminense",
+      "odds": {}
+    },
+    {
+      "datetime": "28.09. 22:00",
+      "home_team": "Atletico-MG",
+      "away_team": "Mirassol",
+      "odds": {}
+    },
+    {
+      "datetime": "28.09. 22:00",
+      "home_team": "Bahia",
+      "away_team": "Palmeiras",
+      "odds": {}
+    },
+    {
+      "datetime": "28.09. 22:00",
+      "home_team": "Bragantino",
+      "away_team": "Santos",
+      "odds": {}
+    },
+    {
+      "datetime": "28.09. 22:00",
+      "home_team": "Corinthians",
+      "away_team": "Flamengo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "28.09. 22:00",
+      "home_team": "Juventude",
+      "away_team": "Internacional",
+      "odds": {}
+    },
+    {
+      "datetime": "28.09. 22:00",
+      "home_team": "Fluminense",
+      "away_team": "Botafogo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "28.09. 22:00",
+      "home_team": "Fortaleza",
+      "away_team": "Sport Recife",
+      "odds": {}
+    },
+    {
+      "datetime": "28.09. 22:00",
+      "home_team": "Gremio",
+      "away_team": "Vitoria",
+      "odds": {}
+    },
+    {
+      "datetime": "28.09. 22:00",
+      "home_team": "Sao Paulo",
+      "away_team": "Ceara",
+      "odds": {}
+    },
+    {
+      "datetime": "28.09. 22:00",
+      "home_team": "Vasco",
+      "away_team": "Cruzeiro",
+      "odds": {}
+    },
+    {
+      "datetime": "02.10. 22:00",
+      "home_team": "Atletico-MG",
+      "away_team": "Juventude",
+      "odds": {}
+    },
+    {
+      "datetime": "02.10. 22:00",
+      "home_team": "Botafogo RJ",
+      "away_team": "Bahia",
+      "odds": {}
+    },
+    {
+      "datetime": "02.10. 22:00",
+      "home_team": "Flamengo RJ",
+      "away_team": "Cruzeiro",
+      "odds": {}
+    },
+    {
+      "datetime": "02.10. 22:00",
+      "home_team": "Fortaleza",
+      "away_team": "Sao Paulo",
+      "odds": {}
+    },
+    {
+      "datetime": "02.10. 22:00",
+      "home_team": "Internacional",
+      "away_team": "Corinthians",
+      "odds": {}
+    },
+    {
+      "datetime": "02.10. 22:00",
+      "home_team": "Mirassol",
+      "away_team": "Bragantino",
+      "odds": {}
+    },
+    {
+      "datetime": "02.10. 22:00",
+      "home_team": "Palmeiras",
+      "away_team": "Vasco",
+      "odds": {}
+    },
+    {
+      "datetime": "02.10. 22:00",
+      "home_team": "Santos",
+      "away_team": "Gremio",
+      "odds": {}
+    },
+    {
+      "datetime": "02.10. 22:00",
+      "home_team": "Sport Recife",
+      "away_team": "Fluminense",
+      "odds": {}
+    },
+    {
+      "datetime": "02.10. 22:00",
+      "home_team": "Vitoria",
+      "away_team": "Ceara",
+      "odds": {}
+    },
+    {
+      "datetime": "16.10. 22:00",
+      "home_team": "Bahia",
+      "away_team": "Flamengo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "16.10. 22:00",
+      "home_team": "Bragantino",
+      "away_team": "Gremio",
+      "odds": {}
+    },
+    {
+      "datetime": "16.10. 22:00",
+      "home_team": "Ceara",
+      "away_team": "Santos",
+      "odds": {}
+    },
+    {
+      "datetime": "16.10. 22:00",
+      "home_team": "Corinthians",
+      "away_team": "Mirassol",
+      "odds": {}
+    },
+    {
+      "datetime": "16.10. 22:00",
+      "home_team": "Cruzeiro",
+      "away_team": "Sport Recife",
+      "odds": {}
+    },
+    {
+      "datetime": "16.10. 22:00",
+      "home_team": "Juventude",
+      "away_team": "Fortaleza",
+      "odds": {}
+    },
+    {
+      "datetime": "16.10. 22:00",
+      "home_team": "Fluminense",
+      "away_team": "Atletico-MG",
+      "odds": {}
+    },
+    {
+      "datetime": "16.10. 22:00",
+      "home_team": "Internacional",
+      "away_team": "Botafogo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "16.10. 22:00",
+      "home_team": "Sao Paulo",
+      "away_team": "Palmeiras",
+      "odds": {}
+    },
+    {
+      "datetime": "16.10. 22:00",
+      "home_team": "Vasco",
+      "away_team": "Vitoria",
+      "odds": {}
+    },
+    {
+      "datetime": "26.10. 22:00",
+      "home_team": "Atletico-MG",
+      "away_team": "Cruzeiro",
+      "odds": {}
+    },
+    {
+      "datetime": "26.10. 22:00",
+      "home_team": "Botafogo RJ",
+      "away_team": "Flamengo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "26.10. 22:00",
+      "home_team": "Fluminense",
+      "away_team": "Juventude",
+      "odds": {}
+    },
+    {
+      "datetime": "26.10. 22:00",
+      "home_team": "Fortaleza",
+      "away_team": "Vasco",
+      "odds": {}
+    },
+    {
+      "datetime": "26.10. 22:00",
+      "home_team": "Gremio",
+      "away_team": "Sao Paulo",
+      "odds": {}
+    },
+    {
+      "datetime": "26.10. 22:00",
+      "home_team": "Mirassol",
+      "away_team": "Internacional",
+      "odds": {}
+    },
+    {
+      "datetime": "26.10. 22:00",
+      "home_team": "Palmeiras",
+      "away_team": "Bragantino",
+      "odds": {}
+    },
+    {
+      "datetime": "26.10. 22:00",
+      "home_team": "Santos",
+      "away_team": "Corinthians",
+      "odds": {}
+    },
+    {
+      "datetime": "26.10. 22:00",
+      "home_team": "Sport Recife",
+      "away_team": "Ceara",
+      "odds": {}
+    },
+    {
+      "datetime": "26.10. 22:00",
+      "home_team": "Vitoria",
+      "away_team": "Bahia",
+      "odds": {}
+    },
+    {
+      "datetime": "05.11. 22:00",
+      "home_team": "Bahia",
+      "away_team": "Gremio",
+      "odds": {}
+    },
+    {
+      "datetime": "05.11. 22:00",
+      "home_team": "Ceara",
+      "away_team": "Botafogo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "05.11. 22:00",
+      "home_team": "Corinthians",
+      "away_team": "Atletico-MG",
+      "odds": {}
+    },
+    {
+      "datetime": "05.11. 22:00",
+      "home_team": "Cruzeiro",
+      "away_team": "Fortaleza",
+      "odds": {}
+    },
+    {
+      "datetime": "05.11. 22:00",
+      "home_team": "Juventude",
+      "away_team": "Bragantino",
+      "odds": {}
+    },
+    {
+      "datetime": "05.11. 22:00",
+      "home_team": "Flamengo RJ",
+      "away_team": "Palmeiras",
+      "odds": {}
+    },
+    {
+      "datetime": "05.11. 22:00",
+      "home_team": "Internacional",
+      "away_team": "Sport Recife",
+      "odds": {}
+    },
+    {
+      "datetime": "05.11. 22:00",
+      "home_team": "Mirassol",
+      "away_team": "Sao Paulo",
+      "odds": {}
+    },
+    {
+      "datetime": "05.11. 22:00",
+      "home_team": "Santos",
+      "away_team": "Vitoria",
+      "odds": {}
+    },
+    {
+      "datetime": "05.11. 22:00",
+      "home_team": "Vasco",
+      "away_team": "Fluminense",
+      "odds": {}
+    },
+    {
+      "datetime": "19.11. 22:00",
+      "home_team": "Atletico-MG",
+      "away_team": "Ceara",
+      "odds": {}
+    },
+    {
+      "datetime": "19.11. 22:00",
+      "home_team": "Botafogo RJ",
+      "away_team": "Santos",
+      "odds": {}
+    },
+    {
+      "datetime": "19.11. 22:00",
+      "home_team": "Bragantino",
+      "away_team": "Vasco",
+      "odds": {}
+    },
+    {
+      "datetime": "19.11. 22:00",
+      "home_team": "Fluminense",
+      "away_team": "Internacional",
+      "odds": {}
+    },
+    {
+      "datetime": "19.11. 22:00",
+      "home_team": "Fortaleza",
+      "away_team": "Flamengo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "19.11. 22:00",
+      "home_team": "Gremio",
+      "away_team": "Juventude",
+      "odds": {}
+    },
+    {
+      "datetime": "19.11. 22:00",
+      "home_team": "Palmeiras",
+      "away_team": "Cruzeiro",
+      "odds": {}
+    },
+    {
+      "datetime": "19.11. 22:00",
+      "home_team": "Sao Paulo",
+      "away_team": "Bahia",
+      "odds": {}
+    },
+    {
+      "datetime": "19.11. 22:00",
+      "home_team": "Sport Recife",
+      "away_team": "Mirassol",
+      "odds": {}
+    },
+    {
+      "datetime": "19.11. 22:00",
+      "home_team": "Vitoria",
+      "away_team": "Corinthians",
+      "odds": {}
+    },
+    {
+      "datetime": "23.11. 22:00",
+      "home_team": "Bahia",
+      "away_team": "Bragantino",
+      "odds": {}
+    },
+    {
+      "datetime": "23.11. 22:00",
+      "home_team": "Ceara",
+      "away_team": "Fluminense",
+      "odds": {}
+    },
+    {
+      "datetime": "23.11. 22:00",
+      "home_team": "Corinthians",
+      "away_team": "Gremio",
+      "odds": {}
+    },
+    {
+      "datetime": "23.11. 22:00",
+      "home_team": "Cruzeiro",
+      "away_team": "Vitoria",
+      "odds": {}
+    },
+    {
+      "datetime": "23.11. 22:00",
+      "home_team": "Juventude",
+      "away_team": "Palmeiras",
+      "odds": {}
+    },
+    {
+      "datetime": "23.11. 22:00",
+      "home_team": "Flamengo RJ",
+      "away_team": "Sport Recife",
+      "odds": {}
+    },
+    {
+      "datetime": "23.11. 22:00",
+      "home_team": "Internacional",
+      "away_team": "Atletico-MG",
+      "odds": {}
+    },
+    {
+      "datetime": "23.11. 22:00",
+      "home_team": "Mirassol",
+      "away_team": "Botafogo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "23.11. 22:00",
+      "home_team": "Santos",
+      "away_team": "Fortaleza",
+      "odds": {}
+    },
+    {
+      "datetime": "23.11. 22:00",
+      "home_team": "Vasco",
+      "away_team": "Sao Paulo",
+      "odds": {}
+    },
+    {
+      "datetime": "30.11. 22:00",
+      "home_team": "Atletico-MG",
+      "away_team": "Bahia",
+      "odds": {}
+    },
+    {
+      "datetime": "30.11. 22:00",
+      "home_team": "Botafogo RJ",
+      "away_team": "Vasco",
+      "odds": {}
+    },
+    {
+      "datetime": "30.11. 22:00",
+      "home_team": "Bragantino",
+      "away_team": "Corinthians",
+      "odds": {}
+    },
+    {
+      "datetime": "30.11. 22:00",
+      "home_team": "Ceara",
+      "away_team": "Fortaleza",
+      "odds": {}
+    },
+    {
+      "datetime": "30.11. 22:00",
+      "home_team": "Fluminense",
+      "away_team": "Mirassol",
+      "odds": {}
+    },
+    {
+      "datetime": "30.11. 22:00",
+      "home_team": "Gremio",
+      "away_team": "Cruzeiro",
+      "odds": {}
+    },
+    {
+      "datetime": "30.11. 22:00",
+      "home_team": "Palmeiras",
+      "away_team": "Santos",
+      "odds": {}
+    },
+    {
+      "datetime": "30.11. 22:00",
+      "home_team": "Sao Paulo",
+      "away_team": "Flamengo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "30.11. 22:00",
+      "home_team": "Sport Recife",
+      "away_team": "Juventude",
+      "odds": {}
+    },
+    {
+      "datetime": "30.11. 22:00",
+      "home_team": "Vitoria",
+      "away_team": "Internacional",
+      "odds": {}
+    },
+    {
+      "datetime": "04.12. 22:00",
+      "home_team": "Corinthians",
+      "away_team": "Ceara",
+      "odds": {}
+    },
+    {
+      "datetime": "04.12. 22:00",
+      "home_team": "Cruzeiro",
+      "away_team": "Fluminense",
+      "odds": {}
+    },
+    {
+      "datetime": "04.12. 22:00",
+      "home_team": "Flamengo RJ",
+      "away_team": "Santos",
+      "odds": {}
+    },
+    {
+      "datetime": "04.12. 22:00",
+      "home_team": "Fortaleza",
+      "away_team": "Gremio",
+      "odds": {}
+    },
+    {
+      "datetime": "04.12. 22:00",
+      "home_team": "Internacional",
+      "away_team": "Bahia",
+      "odds": {}
+    },
+    {
+      "datetime": "04.12. 22:00",
+      "home_team": "Mirassol",
+      "away_team": "Palmeiras",
+      "odds": {}
+    },
+    {
+      "datetime": "04.12. 22:00",
+      "home_team": "Sao Paulo",
+      "away_team": "Bragantino",
+      "odds": {}
+    },
+    {
+      "datetime": "04.12. 22:00",
+      "home_team": "Sport Recife",
+      "away_team": "Atletico-MG",
+      "odds": {}
+    },
+    {
+      "datetime": "04.12. 22:00",
+      "home_team": "Vasco",
+      "away_team": "Juventude",
+      "odds": {}
+    },
+    {
+      "datetime": "04.12. 22:00",
+      "home_team": "Vitoria",
+      "away_team": "Botafogo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "07.12. 22:00",
+      "home_team": "Atletico-MG",
+      "away_team": "Palmeiras",
+      "odds": {}
+    },
+    {
+      "datetime": "07.12. 22:00",
+      "home_team": "Bahia",
+      "away_team": "Fortaleza",
+      "odds": {}
+    },
+    {
+      "datetime": "07.12. 22:00",
+      "home_team": "Botafogo RJ",
+      "away_team": "Sport Recife",
+      "odds": {}
+    },
+    {
+      "datetime": "07.12. 22:00",
+      "home_team": "Bragantino",
+      "away_team": "Vitoria",
+      "odds": {}
+    },
+    {
+      "datetime": "07.12. 22:00",
+      "home_team": "Ceara",
+      "away_team": "Internacional",
+      "odds": {}
+    },
+    {
+      "datetime": "07.12. 22:00",
+      "home_team": "Corinthians",
+      "away_team": "Sao Paulo",
+      "odds": {}
+    },
+    {
+      "datetime": "07.12. 22:00",
+      "home_team": "Juventude",
+      "away_team": "Cruzeiro",
+      "odds": {}
+    },
+    {
+      "datetime": "07.12. 22:00",
+      "home_team": "Fluminense",
+      "away_team": "Flamengo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "07.12. 22:00",
+      "home_team": "Gremio",
+      "away_team": "Vasco",
+      "odds": {}
+    },
+    {
+      "datetime": "07.12. 22:00",
+      "home_team": "Santos",
+      "away_team": "Mirassol",
+      "odds": {}
+    },
+    {
+      "datetime": "11.12. 22:00",
+      "home_team": "Bahia",
+      "away_team": "Vasco",
+      "odds": {}
+    },
+    {
+      "datetime": "11.12. 22:00",
+      "home_team": "Botafogo RJ",
+      "away_team": "Gremio",
+      "odds": {}
+    },
+    {
+      "datetime": "11.12. 22:00",
+      "home_team": "Cruzeiro",
+      "away_team": "Corinthians",
+      "odds": {}
+    },
+    {
+      "datetime": "11.12. 22:00",
+      "home_team": "Flamengo RJ",
+      "away_team": "Bragantino",
+      "odds": {}
+    },
+    {
+      "datetime": "11.12. 22:00",
+      "home_team": "Fortaleza",
+      "away_team": "Atletico-MG",
+      "odds": {}
+    },
+    {
+      "datetime": "11.12. 22:00",
+      "home_team": "Internacional",
+      "away_team": "Santos",
+      "odds": {}
+    },
+    {
+      "datetime": "11.12. 22:00",
+      "home_team": "Mirassol",
+      "away_team": "Ceara",
+      "odds": {}
+    },
+    {
+      "datetime": "11.12. 22:00",
+      "home_team": "Palmeiras",
+      "away_team": "Fluminense",
+      "odds": {}
+    },
+    {
+      "datetime": "11.12. 22:00",
+      "home_team": "Sao Paulo",
+      "away_team": "Juventude",
+      "odds": {}
+    },
+    {
+      "datetime": "11.12. 22:00",
+      "home_team": "Sport Recife",
+      "away_team": "Vitoria",
+      "odds": {}
+    },
+    {
+      "datetime": "14.12. 22:00",
+      "home_team": "Atletico-MG",
+      "away_team": "Flamengo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "14.12. 22:00",
+      "home_team": "Bragantino",
+      "away_team": "Fortaleza",
+      "odds": {}
+    },
+    {
+      "datetime": "14.12. 22:00",
+      "home_team": "Ceara",
+      "away_team": "Cruzeiro",
+      "odds": {}
+    },
+    {
+      "datetime": "14.12. 22:00",
+      "home_team": "Corinthians",
+      "away_team": "Botafogo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "14.12. 22:00",
+      "home_team": "Juventude",
+      "away_team": "Bahia",
+      "odds": {}
+    },
+    {
+      "datetime": "14.12. 22:00",
+      "home_team": "Fluminense",
+      "away_team": "Sao Paulo",
+      "odds": {}
+    },
+    {
+      "datetime": "14.12. 22:00",
+      "home_team": "Gremio",
+      "away_team": "Palmeiras",
+      "odds": {}
+    },
+    {
+      "datetime": "14.12. 22:00",
+      "home_team": "Santos",
+      "away_team": "Sport Recife",
+      "odds": {}
+    },
+    {
+      "datetime": "14.12. 22:00",
+      "home_team": "Vasco",
+      "away_team": "Internacional",
+      "odds": {}
+    },
+    {
+      "datetime": "14.12. 22:00",
+      "home_team": "Vitoria",
+      "away_team": "Mirassol",
+      "odds": {}
+    },
+    {
+      "datetime": "18.12. 22:00",
+      "home_team": "Bahia",
+      "away_team": "Sport Recife",
+      "odds": {}
+    },
+    {
+      "datetime": "18.12. 22:00",
+      "home_team": "Bragantino",
+      "away_team": "Atletico-MG",
+      "odds": {}
+    },
+    {
+      "datetime": "18.12. 22:00",
+      "home_team": "Cruzeiro",
+      "away_team": "Botafogo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "18.12. 22:00",
+      "home_team": "Juventude",
+      "away_team": "Santos",
+      "odds": {}
+    },
+    {
+      "datetime": "18.12. 22:00",
+      "home_team": "Flamengo RJ",
+      "away_team": "Ceara",
+      "odds": {}
+    },
+    {
+      "datetime": "18.12. 22:00",
+      "home_team": "Fortaleza",
+      "away_team": "Corinthians",
+      "odds": {}
+    },
+    {
+      "datetime": "18.12. 22:00",
+      "home_team": "Gremio",
+      "away_team": "Fluminense",
+      "odds": {}
+    },
+    {
+      "datetime": "18.12. 22:00",
+      "home_team": "Palmeiras",
+      "away_team": "Vitoria",
+      "odds": {}
+    },
+    {
+      "datetime": "18.12. 22:00",
+      "home_team": "Sao Paulo",
+      "away_team": "Internacional",
+      "odds": {}
+    },
+    {
+      "datetime": "18.12. 22:00",
+      "home_team": "Vasco",
+      "away_team": "Mirassol",
+      "odds": {}
+    },
+    {
+      "datetime": "21.12. 22:00",
+      "home_team": "Atletico-MG",
+      "away_team": "Vasco",
+      "odds": {}
+    },
+    {
+      "datetime": "21.12. 22:00",
+      "home_team": "Botafogo RJ",
+      "away_team": "Fortaleza",
+      "odds": {}
+    },
+    {
+      "datetime": "21.12. 22:00",
+      "home_team": "Ceara",
+      "away_team": "Palmeiras",
+      "odds": {}
+    },
+    {
+      "datetime": "21.12. 22:00",
+      "home_team": "Corinthians",
+      "away_team": "Juventude",
+      "odds": {}
+    },
+    {
+      "datetime": "21.12. 22:00",
+      "home_team": "Fluminense",
+      "away_team": "Bahia",
+      "odds": {}
+    },
+    {
+      "datetime": "21.12. 22:00",
+      "home_team": "Internacional",
+      "away_team": "Bragantino",
+      "odds": {}
+    },
+    {
+      "datetime": "21.12. 22:00",
+      "home_team": "Mirassol",
+      "away_team": "Flamengo RJ",
+      "odds": {}
+    },
+    {
+      "datetime": "21.12. 22:00",
+      "home_team": "Santos",
+      "away_team": "Cruzeiro",
+      "odds": {}
+    },
+    {
+      "datetime": "21.12. 22:00",
+      "home_team": "Sport Recife",
+      "away_team": "Gremio",
+      "odds": {}
+    },
+    {
+      "datetime": "21.12. 22:00",
+      "home_team": "Vitoria",
+      "away_team": "Sao Paulo",
+      "odds": {}
+    }
+  ],
+  "Torneo Betano": [
+    {
+      "datetime": "Tomorrow 22:00",
+      "home_team": "Huracan",
+      "away_team": "Platense",
+      "odds": {
+        "home_win": 2.5,
+        "draw": 2.67,
+        "away_win": 3.28
+      }
+    }
+  ]
+}
