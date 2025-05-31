@@ -48,12 +48,22 @@ class BettingOddsScraper:
             match_link = row.find('a', class_='in-match')
             if match_link:
                 fixture_data = self.extract_fixture_data(row, current_date)
-                if fixture_data:
+                if fixture_data and self.has_valid_odds(fixture_data.get('odds', {})):
                     fixtures.append(fixture_data)
                     if fixture_data.get('datetime'):
                         current_date = fixture_data['datetime']
         
         return fixtures
+    
+    def has_valid_odds(self, odds):
+        if not odds:
+            return False
+        
+        home_win = odds.get('home_win', 0)
+        draw = odds.get('draw', 0)
+        away_win = odds.get('away_win', 0)
+        
+        return home_win > 0 and draw > 0 and away_win > 0
     
     def extract_fixture_data(self, row, current_date):
         try:
@@ -80,16 +90,22 @@ class BettingOddsScraper:
             
             if len(odds_cells) >= 3:
                 home_button = odds_cells[0].find('button')
-                if home_button:
-                    odds['home_win'] = float(home_button.get('data-odd', 0))
+                if home_button and home_button.get('data-odd'):
+                    home_odd = float(home_button.get('data-odd', 0))
+                    if home_odd > 0:
+                        odds['home_win'] = home_odd
                 
                 draw_button = odds_cells[1].find('button')
-                if draw_button:
-                    odds['draw'] = float(draw_button.get('data-odd', 0))
+                if draw_button and draw_button.get('data-odd'):
+                    draw_odd = float(draw_button.get('data-odd', 0))
+                    if draw_odd > 0:
+                        odds['draw'] = draw_odd
                 
                 away_button = odds_cells[2].find('button')
-                if away_button:
-                    odds['away_win'] = float(away_button.get('data-odd', 0))
+                if away_button and away_button.get('data-odd'):
+                    away_odd = float(away_button.get('data-odd', 0))
+                    if away_odd > 0:
+                        odds['away_win'] = away_odd
             
             return {
                 'datetime': match_datetime,
@@ -119,8 +135,7 @@ class BettingOddsScraper:
             try:
                 fixtures = self.scrape_league_fixtures(league_key)
                 all_fixtures[league_key] = fixtures
-                print(f"Found {len(fixtures)} fixtures for {league_key}")
-                #time.sleep(0.1)
+                print(f"Found {len(fixtures)} fixtures with odds for {league_key}")
                 
             except Exception as e:
                 print(f"Error scraping {league_key}: {e}")
@@ -187,12 +202,13 @@ def parse_existing_html_data(html_string):
                                     elif 'away_win' not in odds_data:
                                         odds_data['away_win'] = odds_value
                     
-                    fixture = {
-                        'home_team': home_team,
-                        'away_team': away_team,
-                        'odds': odds_data
-                    }
-                    fixtures.append(fixture)
+                    if len(odds_data) == 3 and all(v > 0 for v in odds_data.values()):
+                        fixture = {
+                            'home_team': home_team,
+                            'away_team': away_team,
+                            'odds': odds_data
+                        }
+                        fixtures.append(fixture)
                     
             except Exception as e:
                 continue
